@@ -1,0 +1,30 @@
+D:\MMP\2de schijf\csse\week 2\opdracht tafels\bin\Debug\netcoreapp2.0\opdracht tafels.deps.json
+D:\MMP\2de schijf\csse\week 2\opdracht tafels\bin\Debug\netcoreapp2.0\opdracht tafels.runtimeconfig.json
+D:\MMP\2de schijf\csse\week 2\opdracht tafels\bin\Debug\netcoreapp2.0\opdracht tafels.runtimeconfig.dev.json
+D:\MMP\2de schijf\csse\week 2\opdracht tafels\bin\Debug\netcoreapp2.0\opdracht tafels.dll
+D:\MMP\2de schijf\csse\week 2\opdracht tafels\bin\Debug\netcoreapp2.0\opdracht tafels.pdb
+D:\MMP\2de schijf\csse\week 2\opdracht tafels\obj\Debug\netcoreapp2.0\opdracht tafels.csproj.CoreCompileInputs.cache
+D:\MMP\2de schijf\csse\week 2\opdracht tafels\obj\Debug\netcoreapp2.0\opdracht tafels.AssemblyInfoInputs.cache
+D:\MMP\2de schijf\csse\week 2\opdracht tafels\obj\Debug\netcoreapp2.0\opdracht tafels.AssemblyInfo.cs
+D:\MMP\2de schijf\csse\week 2\opdracht tafels\obj\Debug\netcoreapp2.0\opdracht tafels.dll
+D:\MMP\2de schijf\csse\week 2\opdracht tafels\obj\Debug\netcoreapp2.0\opdracht tafels.pdb
+D:\MMP\2de schijf\csse\week 2\opdrachtweek3\bin\Debug\netcoreapp2.0\opdracht tafels.deps.json
+D:\MMP\2de schijf\csse\week 2\opdrachtweek3\bin\Debug\netcoreapp2.0\opdracht tafels.runtimeconfig.json
+D:\MMP\2de schijf\csse\week 2\opdrachtweek3\bin\Debug\netcoreapp2.0\opdracht tafels.runtimeconfig.dev.json
+D:\MMP\2de schijf\csse\week 2\opdrachtweek3\bin\Debug\netcoreapp2.0\opdracht tafels.dll
+D:\MMP\2de schijf\csse\week 2\opdrachtweek3\bin\Debug\netcoreapp2.0\opdracht tafels.pdb
+D:\MMP\2de schijf\csse\week 2\opdrachtweek3\obj\Debug\netcoreapp2.0\opdracht tafels.csproj.CoreCompileInputs.cache
+D:\MMP\2de schijf\csse\week 2\opdrachtweek3\obj\Debug\netcoreapp2.0\opdracht tafels.AssemblyInfoInputs.cache
+D:\MMP\2de schijf\csse\week 2\opdrachtweek3\obj\Debug\netcoreapp2.0\opdracht tafels.AssemblyInfo.cs
+D:\MMP\2de schijf\csse\week 2\opdrachtweek3\obj\Debug\netcoreapp2.0\opdracht tafels.dll
+D:\MMP\2de schijf\csse\week 2\opdrachtweek3\obj\Debug\netcoreapp2.0\opdracht tafels.pdb
+C:\Users\brian\Code\CSSE\week_3\opdrachtweek3\bin\Debug\netcoreapp2.0\opdracht tafels.deps.json
+C:\Users\brian\Code\CSSE\week_3\opdrachtweek3\bin\Debug\netcoreapp2.0\opdracht tafels.runtimeconfig.json
+C:\Users\brian\Code\CSSE\week_3\opdrachtweek3\bin\Debug\netcoreapp2.0\opdracht tafels.runtimeconfig.dev.json
+C:\Users\brian\Code\CSSE\week_3\opdrachtweek3\bin\Debug\netcoreapp2.0\opdracht tafels.dll
+C:\Users\brian\Code\CSSE\week_3\opdrachtweek3\bin\Debug\netcoreapp2.0\opdracht tafels.pdb
+C:\Users\brian\Code\CSSE\week_3\opdrachtweek3\obj\Debug\netcoreapp2.0\opdracht tafels.csproj.CoreCompileInputs.cache
+C:\Users\brian\Code\CSSE\week_3\opdrachtweek3\obj\Debug\netcoreapp2.0\opdracht tafels.AssemblyInfoInputs.cache
+C:\Users\brian\Code\CSSE\week_3\opdrachtweek3\obj\Debug\netcoreapp2.0\opdracht tafels.AssemblyInfo.cs
+C:\Users\brian\Code\CSSE\week_3\opdrachtweek3\obj\Debug\netcoreapp2.0\opdracht tafels.dll
+C:\Users\brian\Code\CSSE\week_3\opdrachtweek3\obj\Debug\netcoreapp2.0\opdracht tafels.pdb
