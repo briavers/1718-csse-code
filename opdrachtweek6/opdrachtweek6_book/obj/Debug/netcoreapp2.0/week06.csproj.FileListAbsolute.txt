@@ -1,0 +1,10 @@
+C:\Users\brian\Code\ONLINE_REPO_CSSE\week06\opdrachtweek6_book\bin\Debug\netcoreapp2.0\week06.deps.json
+C:\Users\brian\Code\ONLINE_REPO_CSSE\week06\opdrachtweek6_book\bin\Debug\netcoreapp2.0\week06.runtimeconfig.json
+C:\Users\brian\Code\ONLINE_REPO_CSSE\week06\opdrachtweek6_book\bin\Debug\netcoreapp2.0\week06.runtimeconfig.dev.json
+C:\Users\brian\Code\ONLINE_REPO_CSSE\week06\opdrachtweek6_book\bin\Debug\netcoreapp2.0\week06.dll
+C:\Users\brian\Code\ONLINE_REPO_CSSE\week06\opdrachtweek6_book\bin\Debug\netcoreapp2.0\week06.pdb
+C:\Users\brian\Code\ONLINE_REPO_CSSE\week06\opdrachtweek6_book\obj\Debug\netcoreapp2.0\week06.csproj.CoreCompileInputs.cache
+C:\Users\brian\Code\ONLINE_REPO_CSSE\week06\opdrachtweek6_book\obj\Debug\netcoreapp2.0\week06.AssemblyInfoInputs.cache
+C:\Users\brian\Code\ONLINE_REPO_CSSE\week06\opdrachtweek6_book\obj\Debug\netcoreapp2.0\week06.AssemblyInfo.cs
+C:\Users\brian\Code\ONLINE_REPO_CSSE\week06\opdrachtweek6_book\obj\Debug\netcoreapp2.0\week06.dll
+C:\Users\brian\Code\ONLINE_REPO_CSSE\week06\opdrachtweek6_book\obj\Debug\netcoreapp2.0\week06.pdb
