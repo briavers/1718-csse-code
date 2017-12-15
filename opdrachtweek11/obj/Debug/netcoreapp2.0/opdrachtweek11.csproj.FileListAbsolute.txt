@@ -1,0 +1,10 @@
+C:\Users\brian\Code\Opdrachten CSSE\1718-csse-code\opdrachtweek11\bin\Debug\netcoreapp2.0\opdrachtweek11.deps.json
+C:\Users\brian\Code\Opdrachten CSSE\1718-csse-code\opdrachtweek11\bin\Debug\netcoreapp2.0\opdrachtweek11.runtimeconfig.json
+C:\Users\brian\Code\Opdrachten CSSE\1718-csse-code\opdrachtweek11\bin\Debug\netcoreapp2.0\opdrachtweek11.runtimeconfig.dev.json
+C:\Users\brian\Code\Opdrachten CSSE\1718-csse-code\opdrachtweek11\bin\Debug\netcoreapp2.0\opdrachtweek11.dll
+C:\Users\brian\Code\Opdrachten CSSE\1718-csse-code\opdrachtweek11\bin\Debug\netcoreapp2.0\opdrachtweek11.pdb
+C:\Users\brian\Code\Opdrachten CSSE\1718-csse-code\opdrachtweek11\obj\Debug\netcoreapp2.0\opdrachtweek11.csproj.CoreCompileInputs.cache
+C:\Users\brian\Code\Opdrachten CSSE\1718-csse-code\opdrachtweek11\obj\Debug\netcoreapp2.0\opdrachtweek11.AssemblyInfoInputs.cache
+C:\Users\brian\Code\Opdrachten CSSE\1718-csse-code\opdrachtweek11\obj\Debug\netcoreapp2.0\opdrachtweek11.AssemblyInfo.cs
+C:\Users\brian\Code\Opdrachten CSSE\1718-csse-code\opdrachtweek11\obj\Debug\netcoreapp2.0\opdrachtweek11.dll
+C:\Users\brian\Code\Opdrachten CSSE\1718-csse-code\opdrachtweek11\obj\Debug\netcoreapp2.0\opdrachtweek11.pdb
