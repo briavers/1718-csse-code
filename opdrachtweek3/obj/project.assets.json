@@ -670,11 +670,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\brian\\Code\\CSSE\\week_3\\opdrachtweek3\\opdracht tafels.csproj",
+      "projectUniqueName": "c:\\Users\\brian\\Code\\Opdrachten CSSE\\1718-csse-code\\opdrachtweek3\\opdracht tafels.csproj",
       "projectName": "opdracht tafels",
-      "projectPath": "C:\\Users\\brian\\Code\\CSSE\\week_3\\opdrachtweek3\\opdracht tafels.csproj",
+      "projectPath": "c:\\Users\\brian\\Code\\Opdrachten CSSE\\1718-csse-code\\opdrachtweek3\\opdracht tafels.csproj",
       "packagesPath": "C:\\Users\\brian\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\brian\\Code\\CSSE\\week_3\\opdrachtweek3\\obj\\",
+      "outputPath": "c:\\Users\\brian\\Code\\Opdrachten CSSE\\1718-csse-code\\opdrachtweek3\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
