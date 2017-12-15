@@ -6,7 +6,11 @@ namespace opdrachtweek11
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            
+
+            Console.WriteLine("geef een maximum waarde in");
+            maxAmount = Convert.ToInt32(Console.ReadLine());
+            
         }
     }
 }
